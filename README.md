@@ -90,15 +90,7 @@ All API endpoints (except `/auth/token` and Swagger UI) are secured using JWT. T
 
 ## Demo
 
-The application is initialized with mock data. You can use tools like `curl` or Postman to interact with the API endpoints. Screenshots of successful requests and responses for the key functionalities (get accounts, get transactions, create transaction, get monthly statement) should be included separately.
-
-## Further Improvements (Optional)
-
-* Implement a more realistic authentication mechanism.
-* Add proper error handling and validation.
-* Implement unit and integration tests.
-* Consider using a persistent database instead of the in-memory H2 database.
-* Add functionality for updating and deleting accounts/transactions.
+The application is initialized with mock data. You can use tools like `curl` or Postman to interact with the API endpoints.
 
 ## Author
 
